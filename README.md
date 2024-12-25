@@ -66,6 +66,7 @@ module sr_ff(s,r,clk,q,qbar);
  endmodule
 ```
 Developed by: MAGESH BOOPATHI.M
+
 RegisterNumber: 24900855
 
 **RTL LOGIC FOR FLIPFLOPS**
